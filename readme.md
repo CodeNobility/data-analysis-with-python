@@ -1,4 +1,4 @@
-# 📊 Data Analysis with Python – 31 Days End-to-End Journey
+# 📊 Data Analysis with Python – 30 Days End-to-End Journey
 
 ## 📌 Overview
 This repository documents my complete **31-day journey of mastering Data Analysis using Python**, focusing on real-world business problems, customer analytics, and decision-driven insights.  
